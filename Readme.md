@@ -8,3 +8,9 @@
     - https://codescracker.com/js/js-window-object.htm
     - https://www.geeksforgeeks.org/properties-of-window-object/
     - https://www.studytonight.com/javascript/javascript-window-object
+
+## getBoundingClientRect()
+- The Element.getBoundingClientRect() method returns a DOMRect object providing information about the size of an element and its position relative to the viewport.
+- syntax - `domRect = element.getBoundingClientRect();`
+- Link to resources :-
+    - https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect
